@@ -1,5 +1,8 @@
 # Deploy Conduktor Gateway with Kubernetes and Host-based Routing
 
+This repo has moved! Go to here:
+- https://github.com/conduktor/conduktor-gateway-kubernetes-tutorial
+
 ## Video Walkthrough
 
 Here is a full walkthrough tutorial.
